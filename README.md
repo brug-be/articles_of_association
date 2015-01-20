@@ -72,7 +72,7 @@ The expulsion of a member or a board member requires the following conditions:
 * The decision of the general assembly must be taken by a majority of two thirds
   of votes of the members present or represented, but no quorum is required;
 * Respect for the rights of the defense, that is to say, the hearing of the
-  member whose expulsion is requested, if it wishes;
+  member whose expulsion is requested, if he/she wishes;
 * The mention of the expulsion in the register of full members;
 * With regard to a decision about an individual, the latter must be taken by
   secret ballot.
@@ -81,7 +81,7 @@ In any case, a resigning member, suspended, or expelled, and the heirs or
 assigns of the deceased member had any right to the assets of the Association. A
 resigning member suspended or expelled may not charge or require no statements,
 accountability, or sealing, or inventories, or claim a refund of contributions
-or donations of any kind that he may have the benefit of the association, and in
+or donations of any kind that he/she may have the benefit of the association, and in
 accordance with Article <TODO>.
 
 #Board
