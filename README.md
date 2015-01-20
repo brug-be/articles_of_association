@@ -12,8 +12,7 @@ Our mission is to create events that bring developers together, that help them d
 
 ### Article 5. Members
 
-The association is composed of: associate members, full members, and sponsor
-members.
+The association is composed of: associate members and full members.
 
 ### Article 6. About Members and their Admission
 
@@ -22,16 +21,14 @@ Have the status of:
 * associate members, all the persons that have paid their annual membership fee
   and participate to the activities of the association,
 * full members, all associate members admitted as a full member by the general
-  assembly to a simple majority of the votes present or represented, and
-* sponsor members, natural or juridical persons who pay a fee in cash or in kind in
-  addition to their annual membership fee.
+  assembly to a simple majority of the votes present or represented.
 
 The number of associate members is unlimited.
 
 The number of full members cannot be less than three. Only full members enjoy
 the full rights accorded to the members by law and this statute.
 
-Any member (associate, full, or sponsor) is deemed to adhere to the statute of
+Any member (associate, or full) is deemed to adhere to the statute of
 the association.
 
 ### Article 7. Register
