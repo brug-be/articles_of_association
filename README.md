@@ -1,12 +1,32 @@
-Welcome to the statute wiki!
+# Statute of Belgian Ruby User Group (BRUG) ASBL/VZW
 
-# Vision
-Our vision is to strengthen and support the Belgian Ruby community.
+## TITLE I - NAME, REGISTERED OFFICE, DURATION, OBJECTIVES
 
-# Mission
-Our mission is to create events that bring developers together, that help them develop, and educate beginners that start working with Ruby.
+### Article 1. Name
 
-# Values
+The association has the name "Belgian Ruby User Group", in abbreviated "BRUG".
+
+### Article 2. Registered Office
+
+The registered office of the association shall be <TODO> and reside under the
+judicial district <TODO>. Any change in the registered office of the exclusive
+is competence of the general assembly to vote on this issue.
+
+### Article 3. Duration
+
+The association is set up for an indefinite period of time.
+
+### Article 4. Objectives
+
+The association aims at promoting the programming language Ruby and supporting
+the Belgian Ruby community. In that way, the association's purpose is as
+follows:
+
+* to organize and/or support events promoting Ruby and/or bringing Ruby
+  developers together,
+* to work in Belgium for education and spread of Ruby,
+* to perform any other act, transaction or other economic activity under the
+  condition that they serve its objectives.
 
 #Board
 The board consists of 5 people with the following titles:
