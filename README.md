@@ -28,13 +28,13 @@ follows:
 * to perform any other act, transaction or other economic activity under the
   condition that they serve its objectives.
 
-TITLE II: MEMBERS, ADMISSION, TERMINATION
+## TITLE II: MEMBERS, ADMISSION, TERMINATION
 
-Article 5. Members
+### Article 5. Members
 
 The association is composed of: associate members and full members.
 
-Article 6. About Members and Their Admission
+### Article 6. About Members and Their Admission
 
 Members can have one of the two status:
 
@@ -47,11 +47,11 @@ The number of full members cannot be less than three. Only full members enjoy th
 
 Any member (associate or full) is deemed to adhere to the statute of the association.
 
-Article 7. Register
+### Article 7. Register
 
 The association maintain a register of the full members, under the responsibility of the board. All decisions of admission or termination of full members are registered at the request of the Board.
 
-Article 8. Termination and Suspension of Membership
+### Article 8. Termination and Suspension of Membership
 
 Any member, including board member, is free to resign to the association by sending his/her resignation letter by email or mail sent to the board.
 
@@ -77,9 +77,9 @@ The expulsion of a member or a board member requires the following conditions:
 
 In any case, a resigning member, suspended, or expelled, and the heirs or assigns of the deceased member had any right to the assets of the association. A resigning member suspended or expelled may not charge or require no statements, accountability, sealing, inventories, or claim a refund of contributions or donations of any kind that they might have the benefit of the association, and in accordance with Article <TODO>.
 
-TITLE III: GENERAL ASSEMBLY
+## TITLE III: GENERAL ASSEMBLY
 
-Article 9. Composition and Presidency
+### Article 9. Composition and Presidency
 
 The General Assembly is composed of all the full members and is chaired by the President.
 
@@ -93,7 +93,7 @@ The Chairman:
 * submits the proposition to a vote;
 * claims the decisions taken by the general assembly.
 
-Article 10. Power and competencies
+### Article 10. Power and competencies
 
 The General Assembly is the sovereign power of the association, being notably responsible for:
 
@@ -106,7 +106,7 @@ The General Assembly is the sovereign power of the association, being notably re
 * the possible transformation into a social purpose company;
 * all cases required in the statutes.
 
-Article 11. Ordinary and Extraordinary General Assembly, Convocation
+### Article 11. Ordinary and Extraordinary General Assembly, Convocation
 
 All full members are convoked to the ordinary General Assembly. It is organized at least once a year, in the first 6 months of the financial year.
 
@@ -114,7 +114,7 @@ The General Assembly is convoked by the board member chosen by the board. The co
 
 An extraordinary General Assembly can be convoked when at least a fifth of the full members request it by written, or when at least 3 board members call it.
 
-Article 12. Right of vote
+### Article 12. Right of vote
 
 All full members have an equal right to vote at the General Assembly. Every full member can be represented by another full member to whom they give a written procuration. Every member cannot have more than 3 procurations.
 
@@ -122,17 +122,17 @@ The decisions are taken at the simple majority of present votes or represented, 
 
 In case of equality of votes, the point is reported at the next General Assembly.
 
-Article 13. Disolving of the association and modification of the statute
+### Article 13. Dissolving of the association and modification of the statute
 
-The General Assembly can only decide the disolving of the association or the modification of the statute with respect to the law. Every modification of the statute has to be submitted, at most one month after its decision, to the Registry of the Commercial Court [greffe du tribunal de commerce] to be published in « Annexes du Moniteur belge ».
+The General Assembly can only decide the dissolving of the association or the modification of the statute with respect to the law. Every modification of the statute has to be submitted, at most one month after its decision, to the Registry of the Commercial Court [greffe du tribunal de commerce] to be published in « Annexes du Moniteur belge ».
 
-Article 14. Minutes
+### Article 14. Minutes
 
 For every General Assembly, a board member takes minutes collecting the decisions taken by the assembly. Those minutes will be published on the mailing list of the association in the upcoming seven days and make them available to any full members that request it.
 
-TITLE IV: BOARD
+## TITLE IV: BOARD
 
-Article 15. Members, and duration of mandate
+### Article 15. Members, and duration of mandate
 
 The board is composed of 3 board members:
 
@@ -144,7 +144,7 @@ The members are elected for a 1 year mandate by the general assembly.
 
 In case of a position not filled, a general assembly has to be convoked to elect a new board member.
 
-Article 16. Meeting, Power and Roles
+### Article 16. Meeting, Power and Roles
 
 The board meets each time it is needed. It is convoked by at least one board member. It is usually chaired by the president, but another member can chair it if it is decided so at the beginning of the meeting.
 
@@ -185,13 +185,13 @@ The board can decide to delegate some tasks to associate or full members in orde
 
 In the exercise of their mandates administrators can not receive any remuneration or fees of any kind, whether in cash or in kind. This clause also applies to the exercise of functions other than that they would exercise director within the association. However, for duly justified expenses incurred in the course of their duties on behalf of the association can be reimbursed.
 
-Article 17. Election.
+### Article 17. Election.
 
 Every full member who is at least 18 year old can be elected. The date of dissolution of the board is decided at a general assembly. At the same general assembly, the new board members are elected. The quorum has to be of at least of 50% + 1 for a valid election. The new board starts when the former one is dissolved.
 
 The full members that run to be a elected as board member has to send their intention to the board in order to be listed in the agenda.
 
-Article 18. Resignation and Dismissal
+### Article 18. Resignation and Dismissal
 
 ...
 
