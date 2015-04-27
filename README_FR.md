@@ -1,33 +1,31 @@
-# Statute of Ruby Belgium ASBL/VZW
+# Status de Ruby Belgium ASBL/VZW
 
-## TITLE I - NAME, REGISTERED OFFICE, DURATION, OBJECTIVES
+## TITRE I - NOM, SIEGE SOCIAL, DUREE, OBJECTIFS
 
-### Article 1. Name
+### Article 1. Nom
 
-The association has the name Ruby Belgium, in abbreviated "rb".
+L'association se nomme Ruby Belgium, en abbrégé "rb".
 
-### Article 2. Registered Office
+### Article 2. Siège Social
 
-The registered office of the association shall be 62 Hollekensweg, 1630
-Linkebeek and reside under the judicial district of Brussels. Any change in the
-registered office is of the exclusive competence of the General Assembly to vote
-on this issue.
+Le siège social de l'association est à 62 Hollekensweg, 1630 Linkebeek dans
+l'arrondissement judiciaire de Bruxelles. Tout changement du siège social est de
+la compétence  exclusive de l'Assemblée Générale qui votera sur ce point.
 
-### Article 3. Duration
+### Article 3. Durée
 
-The association is set up for an indefinite period of time.
+L'association est constituée pour une durée de temps indéterminée.
 
-### Article 4. Objectives
+### Article 4. Objectifs
 
-The association aims at promoting the programming language Ruby and supporting
-the Belgian Ruby community. In that way, the association's purpose is as
-follows:
+L'assocation a objetif de promouvoir le language de programmation Ruby et de
+supporter la communauté belge Ruby. En ce sens, l'association:
 
-* to organize and/or support events promoting Ruby and/or bringing Ruby
-  developers together;
-* to work in Belgium for education and spread of Ruby;
-* to perform any other act, transaction or other economic activity under the
-  condition that they serve its objectives.
+* organise et/ou supporte des évènements pomouvant Ruby et/ou rassemblant les
+  développeurs Ruby;
+* oeuvre en Belgique pour l'éducation et la diffusion de Ruby;
+* effectue tout autre acte, opération, ou autre activité économique sous la
+  condition qu'il serve les objectifs de l'association.
 
 ## TITLE II: MEMBERS, ADMISSION, TERMINATION
 
@@ -317,3 +315,4 @@ They constitute the first board and assign the mandatory roles as following:
 * Hannes Fostie as Treasurer.
 
 They decide that the first financial year will end on the 31st December 2015.
+
