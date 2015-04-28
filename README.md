@@ -55,7 +55,7 @@ association.
 
 ### Article 7. Register
 
-The association maintain a register of the full members, under the
+The association maintains a register of the full members, under the
 responsibility of the board. All decisions of admission or termination of full
 members are registered at the request of the Board.
 
@@ -78,10 +78,10 @@ The expulsion of any member as well as any board member is decided by the
 General Assembly with the consent of the two thirds of the present or
 represented votes.
 
-As an interim measure until the decision of the GeneralAassembly, the board may
+As an interim measure until the decision of the General Assembly, the board may
 suspend any member guilty of a serious breach of the laws, the statute, or
 internal policy document, or in case of other action that could harm the
-association.
+association or its members.
 
 The expulsion of a member or a board member requires the following conditions:
 
@@ -91,7 +91,7 @@ The expulsion of a member or a board member requires the following conditions:
   with at least brief mention of the reason for this proposal;
 * the decision of the General Assembly must be taken by a majority of two thirds
   of votes of the members present or represented, but no quorum is required;
-* respect for the rights of the defense, that is to say, the hearing of the
+* the respect for the rights of the defense, that is to say, the hearing of the
   member whose expulsion is requested, if they wish;
 * the mention of the expulsion in the register of full members;
 * the decision must be taken by secret ballot.
@@ -101,7 +101,7 @@ assigns of the deceased member had any right to the assets of the association. A
 resigning member suspended or expelled may not charge or require no statements,
 accountability, sealing, inventories, or claim a refund of contributions or
 donations of any kind that they might have the benefit of the association, and
-in accordance with Article 18.
+in accordance with Article 16.
 
 ## TITLE III: GENERAL ASSEMBLY
 
@@ -254,7 +254,7 @@ intention to the board in order to be listed in the agenda.
 
 ### Article 18. Resignation and Dismissal
 
-The rules are the same than the ones described at Article 18.
+The rules are the same than the ones described at Article 8.
 
 ## TITLE V: FINANCIAL YEAR, ACCOUNTS AND CONTROL
 

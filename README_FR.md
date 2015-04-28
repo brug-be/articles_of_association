@@ -1,4 +1,4 @@
-# Status de Ruby Belgium ASBL/VZW
+# Statuts de Ruby Belgium ASBL/VZW
 
 ## TITRE I - NOM, SIEGE SOCIAL, DUREE, OBJECTIFS
 
@@ -27,79 +27,85 @@ supporter la communauté belge Ruby. En ce sens, l'association:
 * effectue tout autre acte, opération, ou autre activité économique sous la
   condition qu'il serve les objectifs de l'association.
 
-## TITLE II: MEMBERS, ADMISSION, TERMINATION
+## TITLE II: MEMBRES, ADMISSION, DEMISSION, EXCLUSION
 
-### Article 5. Members
+### Article 5. Membres
 
-The association is composed of: associate members and full members.
+L'association est composée de membres adhérents et effectis.
 
-### Article 6. About Members and Their Admission
+### Article 6. A propos des membres et leur Admission
 
-Members can have one of the two status:
+Un membre peut avoir l'un des deux statuts suivants:
 
-* associate member - which consists of all the persons that have paid their
-  annual membership fee and participate to the activities of the association;
-* full member - which consists of all associate members admitted as a full
-  member by the General Assembly to a simple majority of the votes present or
-  represented.
+* membre adhérent -  toute personne ayant payé leur cotisation annuelle et ayant
+  participé à une ou plusieurs activités de l'association;
+* membre effectif - tout membre adhérent ayant été admis en tant que membre
+  effectif par l'Assemblée Générale par la majorité simple des votes présents ou
+  représentés.
 
-The number of associate members is unlimited.
+Le nombre de membres adhérentts est illimité.
 
-The number of full members cannot be less than three. Only full members enjoy
-the full rights accorded to the members by law and this statute.
+Le nombre de membres effectifs ne peut être inférieur à 3. Seuls les membres
+effectifs jouissent de la plénitude des droits accordés aux membres par la loi
+et les présent statuts.
 
-Any member (associate or full) is deemed to adhere to the statute of the
-association.
+Tout membre (adhérent, effectif) est réputé adhérer aux statuts de l'association.
 
-### Article 7. Register
+### Article 7. Registre
 
-The association maintain a register of the full members, under the
-responsibility of the board. All decisions of admission or termination of full
-members are registered at the request of the Board.
+L'association maintient un registre des membres effectifs, sous la
+responsabilité du conseil d'administration. Toutes les décisions d'admission, de
+démission, ou d'exclusion des membres effectifs sont inscrites au registre à la
+diligence du conseil d'administration.
 
-### Article 8. Termination and Suspension of Membership
+### Article 8. Démission et Exclusion d'un Membre
 
-Any member, including board member, is free to resign to the association by
-sending his/her resignation letter by email or mail sent to the board.
+Tout membre, de même que tout administrateur, est libre de se retirer de
+l'association en envoyant sa lettre de démission par email ou courrier postal
+adressée au conseil d'administration.
 
-Is also deemed to have resigned:
+Est en outre réputé démissionnaire:
 
-* the member ceasing to exist pursuant to the laws of its country of
-  incorporation or, the member being an individual, upon death;
-* the member ceasing to qualify as such in accordance with the Article 6;
-* the member who does not pay his/her membership fee one month after the
-  reminder sent to him/her by email; or
-* the full member who is not present or is not represented at two consecutive
-  General Assemblies.
+* le membre, étant une personne morale cessant d'exister selon les lois de
+  constitution en société du pays, ou étant une personne physique après sa mort;
+* le membre qui ne remplit les conditions exigées pour son admission telles que
+  précisées à l'Article 6;
+* le membre qui ne paie pas sa cotisation un mois après le rappel envoyé par
+  email; ou
+* le membre effectif qui n'est pas présent ou réprésenté à deux Assemblées
+  Générales consécutives.
 
-The expulsion of any member as well as any board member is decided by the
-General Assembly with the consent of the two thirds of the present or
-represented votes.
+L'exclusion d'un membre, de même que d'un administrateur, est prononcée
+uniquement par l'Assemblée Générale à la majorité des 2/3 des voix présentes ou
+représentées.
 
-As an interim measure until the decision of the GeneralAassembly, the board may
-suspend any member guilty of a serious breach of the laws, the statute, or
-internal policy document, or in case of other action that could harm the
-association.
+À titre provisoire jusqu'à la décision de l'Assemblée Générale, le Conseil
+d'Administration peut suspendre tout membre coupable d'infraction grave aux
+lois, aux statuts, ou au réglement d'odre intérieur, ou en cas de toute autre
+action pouvant porter préjudice à l'association ou ses membres.
 
-The expulsion of a member or a board member requires the following conditions:
+L'exclusion d'un membre ou d'un administrateur requière les conditions suivantes:
 
-* the regular convening of a general assembly at which all full members must be
-  convened;
-* the mention in the agenda of the General Assembly of the proposed expulsion
-  with at least brief mention of the reason for this proposal;
-* the decision of the General Assembly must be taken by a majority of two thirds
-  of votes of the members present or represented, but no quorum is required;
-* respect for the rights of the defense, that is to say, the hearing of the
-  member whose expulsion is requested, if they wish;
-* the mention of the expulsion in the register of full members;
-* the decision must be taken by secret ballot.
+* la convocation régulière d'une Assemblée Générale où tous les membres
+  effectifs doivent être convoqués;
+* la mention dans l'ordre du jour de l'Assemblée Générale de la proposition
+  d'exclusion avec la mention, au moins sommaire, de la raison de cette
+  proposition;
+* la décision de l'Assemblée Générale doit être prise à la majorité des 2/3 des
+  voix des membres effectifs présents ou représentés mais aucun quorum de
+  présence n'est exigé;
+* le respect des droits de la défense, c'est-à-dire l'audition du membre dont
+  l'exclusion est demandée, si celui-ci le souhaite;
+* la mention dans le registre de l'exclusion du membre effectif; et
+* la décision devra impérativement être prise par vote secret.
 
-In any case, a resigning member, suspended, or expelled, and the heirs or
-assigns of the deceased member had any right to the assets of the association. A
-resigning member suspended or expelled may not charge or require no statements,
-accountability, sealing, inventories, or claim a refund of contributions or
-donations of any kind that they might have the benefit of the association, and
-in accordance with Article 18.
+En aucun cas, un membre démissionnaire, suspendu, ou exclu ainsi que les
+héritiers ou ayant droit du membre décédé n'ont un quelconque droit sur le fonds
+social de l'Association. Un membre démissionnaire, suspendu ou exclu ne peut pas
+réclamer ou requérir ni relevé, ni reddition de compte, ni apposition de
+scellés, ni inventaires, ni réclamer un remboursement de ses cotisations ou de
+dons de quelque nature que ce soit qu'il aurait faits au profit de
+l'Association, et ce en accord avec l'article 16.
 
 ## TITLE III: GENERAL ASSEMBLY
 
@@ -252,7 +258,7 @@ intention to the board in order to be listed in the agenda.
 
 ### Article 18. Resignation and Dismissal
 
-The rules are the same than the ones described at Article 18.
+The rules are the same than the ones described at Article 8.
 
 ## TITLE V: FINANCIAL YEAR, ACCOUNTS AND CONTROL
 
