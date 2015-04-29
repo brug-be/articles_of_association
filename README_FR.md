@@ -4,41 +4,41 @@
 
 ### Article 1. Nom
 
-L'association se nomme Ruby Belgium, en abbrégé "rb".
+L'Association se nomme Ruby Belgium, en abbrégé "rb".
 
 ### Article 2. Siège Social
 
-Le siège social de l'association est à 62 Hollekensweg, 1630 Linkebeek dans
+Le siège social de l'Association est à 62 Hollekensweg, 1630 Linkebeek dans
 l'arrondissement judiciaire de Bruxelles. Tout changement du siège social est de
 la compétence  exclusive de l'Assemblée Générale qui votera sur ce point.
 
 ### Article 3. Durée
 
-L'association est constituée pour une durée de temps indéterminée.
+L'Association est constituée pour une durée de temps indéterminée.
 
 ### Article 4. Objectifs
 
 L'assocation a objetif de promouvoir le language de programmation Ruby et de
-supporter la communauté belge Ruby. En ce sens, l'association:
+supporter la communauté belge Ruby. En ce sens, l'Association:
 
 * organise et/ou supporte des évènements pomouvant Ruby et/ou rassemblant les
   développeurs Ruby;
 * oeuvre en Belgique pour l'éducation et la diffusion de Ruby;
 * effectue tout autre acte, opération, ou autre activité économique sous la
-  condition qu'il serve les objectifs de l'association.
+  condition qu'il serve les objectifs de l'Association.
 
 ## TITLE II: MEMBRES, ADMISSION, DEMISSION, EXCLUSION
 
 ### Article 5. Membres
 
-L'association est composée de membres adhérents et effectis.
+L'Association est composée de membres adhérents et effectis.
 
 ### Article 6. A propos des membres et leur Admission
 
 Un membre peut avoir l'un des deux statuts suivants:
 
 * membre adhérent -  toute personne ayant payé leur cotisation annuelle et ayant
-  participé à une ou plusieurs activités de l'association;
+  participé à une ou plusieurs activités de l'Association;
 * membre effectif - tout membre adhérent ayant été admis en tant que membre
   effectif par l'Assemblée Générale par la majorité simple des votes présents ou
   représentés.
@@ -49,11 +49,11 @@ Le nombre de membres effectifs ne peut être inférieur à 3. Seuls les membres
 effectifs jouissent de la plénitude des droits accordés aux membres par la loi
 et les présent statuts.
 
-Tout membre (adhérent, effectif) est réputé adhérer aux statuts de l'association.
+Tout membre (adhérent, effectif) est réputé adhérer aux statuts de l'Association.
 
 ### Article 7. Registre
 
-L'association maintient un registre des membres effectifs, sous la
+L'Association maintient un registre des membres effectifs, sous la
 responsabilité du conseil d'administration. Toutes les décisions d'admission, de
 démission, ou d'exclusion des membres effectifs sont inscrites au registre à la
 diligence du conseil d'administration.
@@ -61,7 +61,7 @@ diligence du conseil d'administration.
 ### Article 8. Démission et Exclusion d'un Membre
 
 Tout membre, de même que tout administrateur, est libre de se retirer de
-l'association en envoyant sa lettre de démission par email ou courrier postal
+l'Association en envoyant sa lettre de démission par email ou courrier postal
 adressée au conseil d'administration.
 
 Est en outre réputé démissionnaire:
@@ -82,7 +82,7 @@ représentées.
 À titre provisoire jusqu'à la décision de l'Assemblée Générale, le Conseil
 d'Administration peut suspendre tout membre coupable d'infraction grave aux
 lois, aux statuts, ou au réglement d'odre intérieur, ou en cas de toute autre
-action pouvant porter préjudice à l'association ou ses membres.
+action pouvant porter préjudice à l'Association ou ses membres.
 
 L'exclusion d'un membre ou d'un administrateur requière les conditions suivantes:
 
@@ -127,7 +127,7 @@ Le président de l'Assemblée :
 
 ### Article 10. Pouvoirs et Compétences
 
-L'Assemblée Générale est le pouvour souverain de l'association, elle est
+L'Assemblée Générale est le pouvour souverain de l'Association, elle est
 notamment compétente pour :
 
 * la modification des statuts;
@@ -136,7 +136,7 @@ notamment compétente pour :
 * l'approbation des budgets et des comptes;
 * la décharge à octroyer aux administrateurs et aux vérificateurs des comptes;
 * l'exclusion des membres;
-* la dissolution de l'association;
+* la dissolution de l'Association;
 * la transformation éventuelle en société à finalité sociale;
 * tous les cas exigés dans les statuts.
 
@@ -171,7 +171,7 @@ Générale.
 ### Article 13. Dissolution de l'Association et Modification des Statuts
 
 L'Assemblée Générale ne peut valablement décider de la dissolution de
-l'association ou des modifications des statuts que conformémement à la loi.
+l'Association ou des modifications des statuts que conformémement à la loi.
 Toute modification des statuts doit être soumis, au plus un mois après sa
 décision, au Greffe du Tribunal de Commerce pour être publiée aux "Annexes du
 Moniteur Belge".
@@ -183,87 +183,97 @@ collectant les décisions prises par l'Assemblée. Ce procès verbal sera publi�
 sur la mailing liste de l'Association dans les sept jours suivant l'Assemblée et
 mis à disposition de tout membre effectif qui en fait la demande.
 
-## TITLE IV: BOARD
+## TITLE IV: Conseil d'Administration
 
-### Article 15. Members, and duration of mandate
+### Article 15. Administrateurs et Durée du Mandat
 
-The board is composed of at least the following 3 board members:
+Le Conseil d'Administrateur est composé au moins des trois administrateurs
+suivants :
 
-* President
-* Treasurer
-* Secretary
+* le Président,
+* le Trésorier, et
+* le Secrétaire.
 
-The members are elected for a 1 year mandate by the general assembly.
+Les administrateurs sont élus pour un mandat d'un an par l'Assemblée Générale.
 
-In case of a position not filled, a general assembly has to be convoked to elect
-a new board member.
+En cas d'un poste d'administrateur vacant, en particulier lorsque les
+administrateurs sont en nombre insuffisant, une Assemblée Générale doit être
+convoquée pour élire un nouvel administrateur.
 
-### Article 16. Meeting, Power and Roles
+### Article 16. Rénion, Pouvoirs, et Rôles
 
-The board meets each time it is needed. It is convoked by at least one board
-member. It is usually chaired by the president, but another member can chair it
-if it is decided so at the beginning of the meeting.
+Le Conseil d'Administration se réunit autant de fois qu'il est nécessaire. Il
+est convoqué par au moins un administrateur. Il est généralement présidé par le
+Président, mais un autre administrateur peut le présider s'il en a été décidé
+ainsi au début de la réunion.
 
-The board can deliberate if at least 2 board members are present.
+Le Conseil d'Administrateur ne peut délibérer que lorsqu'au moins 2
+administrateurs sont présents.
 
-One board member collects decisions and votes into minutes of meeting. Those can
-be requested by any full member.
+Un administrateur collecte les décisions et les votes, et en établit un procès
+verbal. Le procès verbal est mis à la disposition des membres effectifs sur sa
+simple demande.
 
-The Board of Directors has the broadest powers to administration and management
-of the association. This list is not exhaustive:
+Le Conseil d'Administrateur a les pouvoirs les plus étendus pour
+l'administration et la gestion de l'Association. Il peut nottament, sans que
+cette énumération soit exhaustive :
 
-* make and spend all acts and contracts;
-* open and manage all bank accounts;
-* accept any legacies, grants, donations and transfers;
-* waive all rights;
-* represent the association in court, either as defendant or as complainant;
-* it can also appoint and dismiss the staff of the association.
+* faire et passer tous les actes et contrats;
+* ouvrir et gérer les comptes bancaires;
+* accepter tous legs, subsides, donations et transferts;
+* renoncer à tous droits;
+* représenter l'Association en justice, tant en défendant qu'en demandant;
+* nommer et révoquer le personnel de l'Association.
 
-All powers not expressly reserved by law or statutes at the General Assembly
-shall be exercised by the Board.
+Tous les pouvoirs qui ne sont pas explicitement réservés par la loi ou les
+statuts à l'Assemblée Générale peuvent être exercés par le Conseil
+d'Administration.
 
-All the board members act in order to run the association according its mission
-and statute. Each member has different roles as defined in the following.
+Tous les administrateurs agissent pour l'Association en concordance de ses
+objectifs et statuts. Certains administrateurs peuvent avoir un rôle différent
+comme défini comme suit.
 
-The president:
+Le Président :
 
-* represents the official figure of the organization;
-* represents the organization at public events;
-* chairs the board meetings and the general assemblies.
+* représente la figure officielle de l'organisation;
+* représente l'organisation aux évènements publics;
+* préside les réunions du Conseil d'Administration et les Assemblées Générales.
 
-The treasurer:
+Le Trésorier :
 
-* keeps track of all incoming and outgoing expenses;
-* prepares the yearly report.
+* tient la comptabilité des dépenses et revenus;
+* prépare les rapports annuels.
 
-The secretary:
+Le Secrétaire :
 
-* writes the minutes of the assemblies and the board meetings;
-* assists the president and the treasurer in their respective role.
+* établit les procès verbaux des Assemblées et des réunions du Conseil;
+* assiste le président et le trésorier dans leur rôle respectif.
 
-The board can decide to delegate some tasks to associate or full members in
-order to achieve its goals.
+Le Conseil d'Administration peut décider de déleguer certains tâches à un ou
+plusiers membres effectifs ou adhérents afin d'atteindre leurs objectifs.
 
-In the exercise of their mandates administrators can not receive any
-remuneration or fees of any kind, whether in cash or in kind. This clause also
-applies to the exercise of functions other than that they would exercise
-director within the association. However, for duly justified expenses incurred
-in the course of their duties on behalf of the association can be reimbursed.
+Dans l'exercice de leurs mandats, les administrateurs ne peuvent recevoir aucune
+rémunération ou honoraire d'aucune sorte, que ce soit en numéraire ou en nature.
+Cette clause est aussi valable pour l'exercice de fonctions autres que celle
+d'administrateur qu'ils exerceraient au sein de l'association. Cependant, des
+frais dûment justifiés qu'ils encourent dans le cadre de leur fonction au nom de
+l'association peuvent leur être remboursés.
 
 ### Article 17. Election.
 
-Every full member who is at least 18 year old can be elected. The date of
-dissolution of the board is decided at a general assembly. At the same general
-assembly, the new board members are elected. The quorum has to be of at least of
-simple majority for a valid election. The new board starts when the former one
-is dissolved.
+Tout membre effectif ayant au moins 18 ans peut être élu. La date de dissolution
+du Conseil d'Administration est décidée par l'Assemblée Générale. Lors de cette
+même Assemblée, les nouveaux administrateurs sont élus. Le quorum réuni doit
+être d'au moins d'une simple majorité pour élection valide. Le nouveau Conseil
+commence lorsque le précédent est dissout.
 
-The full members that run to be a elected as board member has to send their
-intention to the board in order to be listed in the agenda.
+Les membre effectif qui se présente à l'élection des administrateurs doit
+envoyé son intention au Conseil d'Administration afin d'être repris dans l'ordre
+du jour.
 
-### Article 18. Resignation and Dismissal
+### Article 18. Démission et Exclusion
 
-The rules are the same than the ones described at Article 8.
+Les règles sont les mêmes que celles décrites à l'Article 8.
 
 ## TITLE V: FINANCIAL YEAR, ACCOUNTS AND CONTROL
 
@@ -279,12 +289,12 @@ These documents cover income and expenditure for the financial year, assets and
 liabilities.
 
 The General Assembly meeting may appoint an auditor appointed for one year and
-re-elected, to audit the accounts of the association and to submit its annual
+re-elected, to audit the accounts of the Association and to submit its annual
 report.
 
 ### Article 21. Banking
 
-Banking under the daily management of the association are signed by the board
+Banking under the daily management of the Association are signed by the board
 member appointed to this task.
 
 ## TITRE VI: MISCELLANEOUS
@@ -306,12 +316,12 @@ In case of dissolution of the Association, the General Assembly:
 * determine their powers, and
 * will indicate the assignment to give the net assets of the company's assets.
 
-This assignment should be made mandatory for an association working for
+This assignment should be made mandatory for an Association working for
 promotion, education, distribution of Ruby.
 
 ### Article 24. Founders
 
-The association Ruby Belgium is founded by:
+The Association Ruby Belgium is founded by:
 
 * Joren De Groof,
 * Hannes Fostie,
