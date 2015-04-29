@@ -107,76 +107,81 @@ scellés, ni inventaires, ni réclamer un remboursement de ses cotisations ou de
 dons de quelque nature que ce soit qu'il aurait faits au profit de
 l'Association, et ce en accord avec l'article 16.
 
-## TITLE III: GENERAL ASSEMBLY
+## TITLE III: Assemblée Générale
 
-### Article 9. Composition and Presidency
+### Article 9. Composition et Présidence
 
-The General Assembly is composed of all the full members and is chaired by the
-President.
+L'Assemblée Générale est composée de tous les membres effectifs et est présidée
+par le Président.
 
-The associate members can be invited but do not have the right to vote.
+Les membres adhérents peuvent y être invités mais ils n'ont pas droit de vote.
 
-The Chairman:
+Le président de l'Assemblée :
 
-* calls the opening and the closing of the assembly;
-* collects the procurations;
-* checks if the quorum is met, moderates the discussion, and gives the voice to
-  the participants;
-* submits the proposition to a vote;
-* claims the decisions taken by the general assembly.
+* prononce l'ouverture et la clôture de l'Assemblée;
+* collecte les procurations;
+* vérifie si le quorum est atteint, modère les discussions, et donne la parole
+  aux participants;
+* soumet les propositions au vote;
+* proclae les décisions prises par l'Assemblée Générale.
 
-### Article 10. Power and competencies
+### Article 10. Pouvoirs et Compétences
 
-The General Assembly is the sovereign power of the association, being notably
-responsible for:
+L'Assemblée Générale est le pouvour souverain de l'association, elle est
+notamment compétente pour :
 
-* the amendment of the statutes;
-* the appointment and removal of directors and the auditors;
-* the approval of budgets and accounts;
-* the discharge to be granted to directors and auditors;
-* the exclusion of members;
-* the dissolution of the association;
-* the possible transformation into a social purpose company;
-* all cases required in the statutes.
+* la modification des statuts;
+* la nomination et la révocation des administrateurs et des vérificateurs aux
+  comptes;
+* l'approbation des budgets et des comptes;
+* la décharge à octroyer aux administrateurs et aux vérificateurs des comptes;
+* l'exclusion des membres;
+* la dissolution de l'association;
+* la transformation éventuelle en société à finalité sociale;
+* tous les cas exigés dans les statuts.
 
-### Article 11. Ordinary and Extraordinary General Assembly, Convocation
+### Article 11. Assemblée Générale Ordinaire et Extraordinaire, Convocations
 
-All full members are convoked to the ordinary General Assembly. It is organized
-at least once a year, in the first 6 months of the financial year.
+Tous les membres effectis sont convoqués à l'Assemblée Générale Ordinaire. Elle
+est organisée au moins une fois par an, dans les 6 premiers mois de l'exercice
+social.
 
-The General Assembly is convoked by the board member chosen by the board. The
-convocation is sent by email at least 15 days before the date of the assembly.
-The convocation will mention the date, the hour, the place, and the agenda.
+L'Assemblée Générale est convoquée par l'administrateur choisi par le Conseil
+d'Administration. La convocation est envoyée par email au moins 15 jours avant
+la date de l'Assemblée. La convocation mentionne la date, l'heure, le lieu, et
+l'ordre du jour de l'Assemblée.
 
-An extraordinary General Assembly can be convoked when at least a fifth of the
-full members request it by written, or when at least 3 board members call it.
+Une Assemblée Générale Extraordinaire doit être convoquée lorsqu'un cinquième
+des membres effectifs en fait la demande écrite ou lorsqu'au moins 3
+administrateurs la demandent.
 
-### Article 12. Right of vote
+### Article 12. Droit de Vote
 
-All full members have an equal right to vote at the General Assembly. Every full
-member can be represented by another full member to whom they give a written
-procuration. Every member cannot have more than 3 procurations.
+Tous les membres effectifs ont un droit de vote égale à l'Assemblée Générale.
+Tout membre effectif peut être représenté par un autre membre effectif à qui il
+donne une procuration écrite. Tout membre ne peut avoir plus de 3 procurations.
 
-The decisions are taken at the simple majority of present votes or represented,
-except in the case when it is decided otherwise by the law or the present
-statute.
+Les décisions sont prises à la majorité simple des votes présents ou
+représentés, excepté pour les cas où il en est décidé autrement par la loi ou
+les présents statuts.
 
-In case of equality of votes, the point is reported at the next General Assembly.
+En cas de partage des votes, le point est reporté à la prochaine Assemblée
+Générale.
 
-### Article 13. Dissolving of the association and modification of the statute
+### Article 13. Dissolution de l'Association et Modification des Statuts
 
-The General Assembly can only decide the dissolving of the association or the
-modification of the statute with respect to the law. Every modification of the
-statute has to be submitted, at most one month after its decision, to the
-Registry of the Commercial Court [greffe du tribunal de commerce] to be
-published in "Annexes du Moniteur belge".
+L'Assemblée Générale ne peut valablement décider de la dissolution de
+l'association ou des modifications des statuts que conformémement à la loi.
+Toute modification des statuts doit être soumis, au plus un mois après sa
+décision, au Greffe du Tribunal de Commerce pour être publiée aux "Annexes du
+Moniteur Belge".
 
-### Article 14. Minutes
+### Article 14. Procès Verbal
 
-For every General Assembly, a board member takes minutes collecting the
-decisions taken by the assembly. Those minutes will be published on the mailing
-list of the association in the upcoming seven days and make them available to
-any full members that request it.
+Pour chaque Assemblée Générale, un administrateur établit un procès verbal
+collectant les décisions prises par l'Assemblée. Ce procès verbal sera publié
+sur la mailing liste de l'Association dans les sept jours suivant l'Assemblée et
+mis à disposition de tout membre effectif qui en fait la demande.
 
 ## TITLE IV: BOARD
 
