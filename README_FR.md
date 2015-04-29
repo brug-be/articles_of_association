@@ -249,6 +249,8 @@ Le Secrétaire :
 * établit les procès verbaux des Assemblées et des réunions du Conseil;
 * assiste le président et le trésorier dans leur rôle respectif.
 
+Ces 3 rôles doivent être assignés.
+
 Le Conseil d'Administration peut décider de déleguer certains tâches à un ou
 plusiers membres effectifs ou adhérents afin d'atteindre leurs objectifs.
 
@@ -275,65 +277,71 @@ du jour.
 
 Les règles sont les mêmes que celles décrites à l'Article 8.
 
-## TITLE V: FINANCIAL YEAR, ACCOUNTS AND CONTROL
+## TITLE V: EXERCICE SOCIAL, COMPTES, ET CONTRÔLE
 
-### Article 19. Financial Year
+### Article 19. Exercice Social
 
-The financial year starts the 1st January and ends the 31st December.
+L'exercice social commence le 1er Janvier et se termine le 31 Décembre.
 
-### Article 20. Account and Control
+### Article 20. Comptes et Contrôle
 
-The account of the financial year and the budget of the next financial year will
-be submitted annually to the approval of the General Assembly byt the Board.
-These documents cover income and expenditure for the financial year, assets and
-liabilities.
+Les comptes de l'exercice social écoulé et le budget pour le prochain exercice
+seront soumis annuellement à l'approbation de l'Assemblée Générale par le
+Conseil d'Administration. Ces documents portent sur les recettes et les dépenses
+de l'exercice financier, les actifs et le passif.
 
-The General Assembly meeting may appoint an auditor appointed for one year and
-re-elected, to audit the accounts of the Association and to submit its annual
-report.
+L'Assemblée Générale peut désigner un vérificateur aux comptes, nommé pour un an
+et rééligible, chargé de vérifier les comptes de l'association et de lui
+présenter son rapport annuel.
 
-### Article 21. Banking
+### Article 21. Opérations Bancaires
 
-Banking under the daily management of the Association are signed by the board
-member appointed to this task.
+Les opérations bancaires relevant de la gestion journalière de l'association
+sont signées par l'administrateur désigné à cette tache, le trésorier.
 
-## TITRE VI: MISCELLANEOUS
+## TITRE VI: DISPOSITIONS DIVERSES
 
-### Article 22. Internal Rules
+### Article 22. Cotisation
 
-Internal Rules could be submitted by the board to the General Assembly. Their
-modifications should be approved by the General Assembly with a simple majority
-of present votes or represented.
+Le montant de la cotisation dont le maximum ne peut dépasser 100 EUROS est fixé
+annuellement par l'Assemblée Générale.
 
-Everything that is not explicitly stated in the present statute are ruled by
-Internal Rules and by the law.
+### Article 24. Règlement d'Ordre Intérieur
+
+Un Règlement d'Ordre Intérieur peut être présenté par le Conseil d'Administration
+à l'Assemblée Générale et soumis à son approbation. Sa modification doit être
+approuvée par l'Assemblée avec une majorité simple des votes présents ou
+représentés.
+
+Tout ce qui n'est pas explicitement établi dans les présents statuts ou la loi
+le sont par le Règlement d'Ordre Intérieur.
 
 ### Article 23. Dissolution
 
-In case of dissolution of the Association, the General Assembly:
+En cas de dissolution de l'Associaiton, l'Assemblée Générale :
 
-* appoint two liquidators,
-* determine their powers, and
-* will indicate the assignment to give the net assets of the company's assets.
+* désigne 2 liquidateurs,
+* détermine leurs pouvoirs, et
+* indique l'affectation à donner à l'actif net de l'avoir social.
 
-This assignment should be made mandatory for an Association working for
-promotion, education, distribution of Ruby.
+Cette affection doit être obligatoirement en faveur d'une association oeuvrant
+pour la promotion, l'éducation, ou la distribution de Ruby.
 
-### Article 24. Founders
+### Article 24. Fondateurs
 
-The Association Ruby Belgium is founded by:
+L'Association Ruby Belgium est fondée par :
 
 * Joren De Groof,
 * Hannes Fostie,
 * Christophe Philemotte,
-* Yannick Schutz, and
+* Yannick Schutz, et
 * Oana Sipos.
 
-They constitute the first board and assign the mandatory roles as following:
+Ils forment le premier Conseil d'Administrateur et assigne les rôles
+obligatoires comme suit :
 
-* Christophe Philemotte as President,
-* Oana Sipos as Secretary, and
-* Hannes Fostie as Treasurer.
+* Christophe Philemotte comme Président,
+* Oana Sipos comme Secrétaire, et
+* Hannes Fostie comme Trésorier.
 
-They decide that the first financial year will end on the 31st December 2015.
-
+Ils décident que le premier exercice social se terminera le 31 Décembre 2015.

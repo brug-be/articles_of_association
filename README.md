@@ -232,6 +232,8 @@ The secretary:
 * writes the minutes of the assemblies and the Board meetings;
 * assists the president and the treasurer in their respective role.
 
+Those 3 roles have to be assigned.
+
 The Board can decide to delegate some tasks to associate or full members in
 order to achieve its goals.
 
@@ -265,7 +267,7 @@ The financial year starts the 1st January and ends the 31st December.
 ### Article 20. Account and Control
 
 The account of the financial year and the budget of the next financial year will
-be submitted annually to the approval of the General Assembly byt the Board.
+be submitted annually to the approval of the General Assembly by the Board.
 These documents cover income and expenditure for the financial year, assets and
 liabilities.
 
@@ -280,16 +282,21 @@ member appointed to this task.
 
 ## TITRE VI: MISCELLANEOUS
 
-### Article 22. Internal Rules
+### Article 22. Fee
+
+The amount of the fee, that is at most 100EUR, is decided every year by the
+General Assembly.
+
+### Article 23. Internal Rules
 
 Internal Rules could be submitted by the Board to the General Assembly. Their
 modifications should be approved by the General Assembly with a simple majority
 of present votes or represented.
 
-Everything that is not explicitly stated in the present statute are ruled by
-Internal Rules and by the law.
+Everything that is not explicitly stated in the present statute or the law are
+ruled by Internal Rules.
 
-### Article 23. Dissolution
+### Article 24. Dissolution
 
 In case of dissolution of the Association, the General Assembly:
 
@@ -300,7 +307,7 @@ In case of dissolution of the Association, the General Assembly:
 This assignment should be made mandatory for an Association working for
 promotion, education, distribution of Ruby.
 
-### Article 24. Founders
+### Article 25. Founders
 
 The Association Ruby Belgium is founded by:
 
