@@ -342,6 +342,6 @@ obligatoires comme suit :
 
 * Christophe Philemotte comme Président,
 * Oana Sipos comme Secrétaire, et
-* Hannes Fostie comme Trésorier.
+* Joren De Groof comme Trésorier.
 
 Ils décident que le premier exercice social se terminera le 31 Décembre 2015.

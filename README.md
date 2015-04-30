@@ -321,6 +321,6 @@ They constitute the first Board and assign the mandatory roles as following:
 
 * Christophe Philemotte as President,
 * Oana Sipos as Secretary, and
-* Hannes Fostie as Treasurer.
+* Joren De Groof as Treasurer.
 
 They decide that the first financial year will end on the 31st December 2015.
