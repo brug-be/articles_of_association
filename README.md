@@ -9,9 +9,9 @@ The Association has the name Ruby Belgium, in abbreviated "rb".
 ### Article 2. Registered Office
 
 The registered office of the Association shall be 62 Hollekensweg, 1630
-Linkebeek and reside under the judicial district of Brussels. Any change in the
-registered office is of the exclusive competence of the General Assembly to vote
-on this issue.
+Linkebeek and reside under the judicial district of Hal-Vilvorde. Any change in
+the registered office is of the exclusive competence of the General Assembly to
+vote on this issue.
 
 ### Article 3. Duration
 

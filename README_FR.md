@@ -9,8 +9,8 @@ L'Association se nomme Ruby Belgium, en abbrégé "rb".
 ### Article 2. Siège Social
 
 Le siège social de l'Association est à 62 Hollekensweg, 1630 Linkebeek dans
-l'arrondissement judiciaire de Bruxelles. Tout changement du siège social est de
-la compétence  exclusive de l'Assemblée Générale qui votera sur ce point.
+l'arrondissement judiciaire de Hal-Vilvorde. Tout changement du siège social est
+de la compétence  exclusive de l'Assemblée Générale qui votera sur ce point.
 
 ### Article 3. Durée
 
