@@ -306,7 +306,7 @@ sont signées par l'administrateur désigné à cette tache, le trésorier.
 Le montant de la cotisation dont le maximum ne peut dépasser 100 EUROS est fixé
 annuellement par l'Assemblée Générale.
 
-### Article 24. Règlement d'Ordre Intérieur
+### Article 23. Règlement d'Ordre Intérieur
 
 Un Règlement d'Ordre Intérieur peut être présenté par le Conseil d'Administration
 à l'Assemblée Générale et soumis à son approbation. Sa modification doit être
@@ -316,7 +316,7 @@ représentés.
 Tout ce qui n'est pas explicitement établi dans les présents statuts ou la loi
 le sont par le Règlement d'Ordre Intérieur.
 
-### Article 23. Dissolution
+### Article 24. Dissolution
 
 En cas de dissolution de l'Associaiton, l'Assemblée Générale :
 
@@ -327,7 +327,7 @@ En cas de dissolution de l'Associaiton, l'Assemblée Générale :
 Cette affection doit être obligatoirement en faveur d'une association oeuvrant
 pour la promotion, l'éducation, ou la distribution de Ruby.
 
-### Article 24. Fondateurs
+### Article 25. Fondateurs
 
 L'Association Ruby Belgium est fondée par :
 
