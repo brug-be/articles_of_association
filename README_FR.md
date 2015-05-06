@@ -331,11 +331,11 @@ pour la promotion, l'éducation, ou la distribution de Ruby.
 
 L'Association Ruby Belgium est fondée par :
 
-* Joren De Groof,
-* Hannes Fostie,
-* Christophe Philemotte,
-* Yannick Schutz, et
-* Oana Sipos.
+* Joren De Groof (Grensstraat 14, 9000 Gent),
+* Hannes Fostie (Marktweg 67, 9500 Geraardsbergen),
+* Christophe Philemotte (Hollekensweg 62, 1630 Linkebeek),
+* Yannick Schutz (Rue du 15 Août 13, 4430 Ans), et
+* Oana Sipos (Diestsestraat 50/2, 3000, Leuven).
 
 Ils forment le premier Conseil d'Administrateur et assigne les rôles
 obligatoires comme suit :
