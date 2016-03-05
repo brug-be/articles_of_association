@@ -1,4 +1,4 @@
-# Statute of Ruby Belgium ASBL/VZW
+# Articles of Association of Ruby Belgium ASBL/VZW
 
 ## TITLE I - NAME, REGISTERED OFFICE, DURATION, OBJECTIVES
 
